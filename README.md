@@ -25,8 +25,7 @@
     Como executar o projeto?
   <h2>
   <p>
-    Depois de fazer toda as instalações necessárias para o uso do bot, basta executar os arquivos em python.
-    Os arquivos são: "scrapy", você pode executar do 1 até o 5. 
+    Executar os arquivos "scrapy.py" com o seguinte comando no terminal: "python scrapy.py" ou clicando em "run" no vscode.
   </p> 
 </div>
 
