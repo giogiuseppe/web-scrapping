@@ -25,7 +25,7 @@
     Como executar o projeto?
   <h2>
   <p>
-    Depois de fazer toda as instações necessárias para o uso do bot, basta executar os arquivos em python.
+    Depois de fazer toda as instalações necessárias para o uso do bot, basta executar os arquivos em python.
     Os arquivos são: "scrapy", você pode executar do 1 até o 5. 
   </p> 
 </div>
