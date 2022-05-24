@@ -8,21 +8,19 @@
   </2>
 </div>
 
-<div>
-  <p>
-    Tutorial:
-
-    O que precisamos para executar o projeto?
-    - Linguagem de programação: Python3.
-    - Bibliotecas: BeautifulSoup (bs4) 
-                   Requests 
-                   Lxml
-
-   Como executar o projeto?
-   - Depois de fazer toda as instações necessárias para o uso do bot, basta executar os arquivos em python.
-     Os arquivos são: "scrapy", você pode executar do 1 até o 5.
-  </p>  
-</div>
+<p>
+  O que precisamos para executar o projeto?
+  - Linguagem de programação: Python3.
+  - Bibliotecas: BeautifulSoup (bs4) 
+                 Requests 
+                 Lxml
+</p>
+  
+<p>
+  Como executar o projeto?
+  - Depois de fazer toda as instações necessárias para o uso do bot, basta executar os arquivos em python.
+    Os arquivos são: "scrapy", você pode executar do 1 até o 5. 
+</p> 
 
 <div align="center">
    <h2>
